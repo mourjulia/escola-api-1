@@ -30,3 +30,5 @@ conexao.connect( erro => {
 
 // exportando o recurso
 export default conexao;
+
+iohvhvvibuibiriuugu
